@@ -1,0 +1,28 @@
+{
+  "emmet.showSuggestionsAsSnippets": false,
+  "emmet.preferences": {},
+  "cSpell.ignoreWords": [
+    "checkin",
+    "checkins",
+    "highscore",
+    "latlng",
+    "noreferrer",
+    "omdb",
+    "pravatar",
+    "supabase",
+    "uniquifier",
+    "wdth",
+    "weathercode"
+  ],
+  "cSpell.words": [
+    "apos",
+    "crossorigin",
+    "heroicons",
+    "IIDSAT",
+    "josefin",
+    "Roboto",
+    "Sono",
+    "tanstack",
+    "wunilooqeqtriufpoqvw"
+  ]
+}
